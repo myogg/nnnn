@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: link
 date:   2024-08-05 16:01:18 +0800
 ---
