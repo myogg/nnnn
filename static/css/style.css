@@ -58,7 +58,7 @@ blockquote pre {
 
 body {
   font-size: 15px;
-  font-family: "Helvetica Neue", "PingFang SC", "Microsoft YaHei", "Source Han Sans SC", "Noto Sans CJK SC", "WenQuanYi Micro Hei", sans-serif;
+  font-family: "Microsoft YaHei", "Helvetica Neue", "PingFang SC", "Source Han Sans SC", "Noto Sans CJK SC", "WenQuanYi Micro Hei", sans-serif;
   line-height: 2em;
   text-align: center;
 }
@@ -85,7 +85,7 @@ hr {
   font-size: 13px;
   max-width: 856px;
   margin: 0 auto;
-  color: #ccc;
+  color: #ee3f4d;
 }
 
 .header {
