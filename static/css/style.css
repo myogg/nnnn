@@ -174,7 +174,7 @@ div#home {
 }
 
 .posts a {
-    color: #666;
+    color: #65E51B;
 }
 
 .posts a:hover {
@@ -190,7 +190,7 @@ div#home {
 }
 
 #page_title {
-  color: #666;
+  color: #260BF3;
   /* border-bottom: 1px solid #ddd; */
   /* margin: 1em 0 2em 0; */
   padding-bottom: 0.5em;
@@ -209,7 +209,7 @@ div#home {
 }
 
 #page_meta a {
-  color: #aaa;
+  color: #A22AE8;
 }
 
 .page_meta_tags {
@@ -225,16 +225,16 @@ div#home {
 }
 
 .post p {
-  color: #666;
+  color: #258AF6;
   word-break: break-all;
 }
 
 .post a:hover {
-  border-bottom: 1px dashed #999;
+  border-bottom: 1px dashed #CC6212;
 }
 
 .post h1, .post h2, .post h3, .post h4, .post h5, .post h6 {
-  color: #666;
+  color: #8B12CC;
   /* font-weight: 300; */
 }
 
