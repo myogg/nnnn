@@ -115,7 +115,7 @@ hr {
 .page_header.page_meta.page_meta_tags a.extra:hover { border-bottom: 1px dashed #999; }
 
 .page_meta_tags a:hover {
-  border-bottom: 1px dashed #F32E0B;
+  border-bottom: 1px dashed #999;
 }
 
 .footer a:hover {
@@ -174,7 +174,7 @@ div#home {
 }
 
 .posts a {
-    color: #F32E0B;
+    color: #666;
 }
 
 .posts a:hover {
