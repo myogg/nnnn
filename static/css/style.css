@@ -64,8 +64,8 @@ body {
 }
 
 a         { color: #296bcc; text-decoration: none; }
-a:link    { color: #296bcc; text-decoration: none; }
-a:visited { color: #296bcc; text-decoration: none; }
+a:link    { color: #241ff7; text-decoration: none; }
+a:visited { color: #241ff7; text-decoration: none; }
 a:hover   { color: #296bcc; text-decoration: none; }
 a:active  { color: #296bcc; text-decoration: none; }
 
@@ -147,7 +147,7 @@ div#home {
 }
 
 .posts .index_more a {
-  color: #bdc84e;
+  color: #241ff7;
 }
 
 .posts {
@@ -178,7 +178,7 @@ div#home {
 }
 
 .posts a:hover {
-  color: #999;
+  color: #b660b5;
 }
 
 
@@ -230,7 +230,7 @@ div#home {
 }
 
 .post a:hover {
-  border-bottom: 1px dashed #CC6212;
+  border-bottom: 1px dashed #b660b5;
 }
 
 .post h1, .post h2, .post h3, .post h4, .post h5, .post h6 {
@@ -279,7 +279,7 @@ code {
     font-size: .9em;
     position: relative;
     top: -1px;
-    color: #666;
+    color: #b660b5;
 }
 
 .post pre {
@@ -354,7 +354,7 @@ code {
 
 .gzh-pic {
   font-size: 13px;
-  color: #ccc;
+  color: #c9a84d;
 }
 
 /*
