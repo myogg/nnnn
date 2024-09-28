@@ -98,7 +98,7 @@ hr {
 }
 
 .header a:hover {
-  color: #ee3f4d;
+  color: #68BF25;
 }
 
 .title {
@@ -106,7 +106,7 @@ hr {
 }
 
 .title a {
-  color: #999;
+  color: #BF2525;
   font-weight: bold;
 }
 
@@ -147,7 +147,7 @@ div#home {
 }
 
 .posts .index_more a {
-  color: #296bcc;
+  color: #6525BF;
 }
 
 .posts {
