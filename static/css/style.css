@@ -17,7 +17,7 @@
 html, body { height: 100%; }
 
 body {
-  color: #ee3f4d;
+  color: #666;
 }
 
 h1 { font-size: 2em; }
@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 P {
-  margin: 0 0 12px;
+  margin: 0 0 10px;
 }
 
 blockquote {
@@ -58,14 +58,14 @@ blockquote pre {
 
 body {
   font-size: 15px;
-  font-family: "Microsoft YaHei", "Helvetica Neue", "PingFang SC", "Source Han Sans SC", "Noto Sans CJK SC", "WenQuanYi Micro Hei", sans-serif;
+  font-family: "Helvetica Neue", "PingFang SC", "Microsoft YaHei", "Source Han Sans SC", "Noto Sans CJK SC", "WenQuanYi Micro Hei", sans-serif;
   line-height: 2em;
   text-align: center;
 }
 
 a         { color: #296bcc; text-decoration: none; }
-a:link    { color: #241ff7; text-decoration: none; }
-a:visited { color: #241ff7; text-decoration: none; }
+a:link    { color: #296bcc; text-decoration: none; }
+a:visited { color: #296bcc; text-decoration: none; }
 a:hover   { color: #296bcc; text-decoration: none; }
 a:active  { color: #296bcc; text-decoration: none; }
 
@@ -82,10 +82,10 @@ hr {
 /*****************************************************************************/
 
 .header, .footer {
-  font-size: 12px;
+  font-size: 13px;
   max-width: 856px;
   margin: 0 auto;
-  color: #666;
+  color: #ccc;
 }
 
 .header {
@@ -147,7 +147,7 @@ div#home {
 }
 
 .posts .index_more a {
-  color: #241ff7;
+  color: #296bcc;
 }
 
 .posts {
@@ -174,11 +174,11 @@ div#home {
 }
 
 .posts a {
-    color: #65E51B;
+    color: #666;
 }
 
 .posts a:hover {
-  color: #b660b5;
+  color: #999;
 }
 
 
@@ -190,7 +190,7 @@ div#home {
 }
 
 #page_title {
-  color: #260BF3;
+  color: #666;
   /* border-bottom: 1px solid #ddd; */
   /* margin: 1em 0 2em 0; */
   padding-bottom: 0.5em;
@@ -209,7 +209,7 @@ div#home {
 }
 
 #page_meta a {
-  color: #A22AE8;
+  color: #aaa;
 }
 
 .page_meta_tags {
@@ -225,16 +225,16 @@ div#home {
 }
 
 .post p {
-  color: #258AF6;
+  color: #666;
   word-break: break-all;
 }
 
 .post a:hover {
-  border-bottom: 1px dashed #b660b5;
+  border-bottom: 1px dashed #999;
 }
 
 .post h1, .post h2, .post h3, .post h4, .post h5, .post h6 {
-  color: #8B12CC;
+  color: #666;
   /* font-weight: 300; */
 }
 
@@ -279,7 +279,7 @@ code {
     font-size: .9em;
     position: relative;
     top: -1px;
-    color: #b660b5;
+    color: #666;
 }
 
 .post pre {
@@ -354,7 +354,7 @@ code {
 
 .gzh-pic {
   font-size: 13px;
-  color: #fff;
+  color: #ccc;
 }
 
 /*
