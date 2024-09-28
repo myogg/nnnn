@@ -82,10 +82,10 @@ hr {
 /*****************************************************************************/
 
 .header, .footer {
-  font-size: 13px;
+  font-size: 12px;
   max-width: 856px;
   margin: 0 auto;
-  color: #ee3f4d;
+  color: #666;
 }
 
 .header {
@@ -98,7 +98,7 @@ hr {
 }
 
 .header a:hover {
-  color: #999;
+  color: #ee3f4d;
 }
 
 .title {
