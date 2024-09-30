@@ -110,7 +110,7 @@ hr {
   font-weight: bold;
 }
 
-.header a.extra:hover { border-bottom: 1px dashed #999; }
+.header a.extra:hover { border-bottom: 1px dashed #FF0000; }
 
 .page_header.page_meta.page_meta_tags a.extra:hover { border-bottom: 1px dashed #999; }
 
