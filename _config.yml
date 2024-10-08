@@ -5,7 +5,6 @@ baseurl: ""
 # 全局顶部导航栏配置。格式："名称=跳转链接"，名称和跳转链接之间用"="分隔。例如 "About=/about.html"
 nav:
   - About=/about.html
-  - TAGS=/tags.html
   - link=/link.html
 
 # 不要动这个配置：根据tag生成页面
