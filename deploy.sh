@@ -6,10 +6,10 @@ git add --all && git commit -m 'update' && git push origin master
 
 bundle install && jekyll build
 
-rm -rf ../mymsnn.github.io/mblog/*
+rm -rf ../myogg.github.io/*
 
-cp -R _site/* ../mymsnn.github.io/mblog/
+cp -R _site/* ../myogg.github.io/
 
-cd ../mymsnn.github.io/mblog/
+cd ../myogg.github.io/
 
 git add --all && git commit -m 'update' && git push origin master
